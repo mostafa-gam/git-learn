@@ -1,3 +1,3 @@
-# git-learn
-for learn
+# learn js
+for learn js
 elzero course
